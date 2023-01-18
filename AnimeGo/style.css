@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    width: 100px;
+    height: 150px;
+    background-color: red;
+}
+.container{
+    width: 100px;
+    height: 150px;
+    background-color: green;
+}
+.footer{
+    width: 1200px;
+    height: 150px;
+    background-color: grey;
+}
